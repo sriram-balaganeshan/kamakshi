@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/data/pilgrim", {data:[{}],fetch:[],mutations:void 0});
